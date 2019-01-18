@@ -1,0 +1,14 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>welcome to home page</h1>
+  <% users.forEach(function(user){%>  
+    <div>
+      <strong>Name</strong>:<%=user.name%><br/>
+      <strong>Age</strong>:<%=user.age%><br/>
+      <strong>PhoneNumber</strong>:<%=user.phoneNo%><br/>
+    </div><br>
+  <%})%>
+  </body>
+</html>

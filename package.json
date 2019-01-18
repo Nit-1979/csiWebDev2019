@@ -1,0 +1,23 @@
+{
+  "name": "csiwebdev2019",
+  "version": "1.0.0",
+  "description": "csi web dev 2k19",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nit-1979/csiWebDev2019.git"
+  },
+  "author": "nitin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nit-1979/csiWebDev2019/issues"
+  },
+  "homepage": "https://github.com/Nit-1979/csiWebDev2019#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
